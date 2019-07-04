@@ -3,8 +3,9 @@
 ## The Use case
 
 ### Fully dressed use case template
-|123|123|
-| -------------------------- | --- |
+
+| 123                        | 123 |
+|--------------------------|---|
 | use case name              | ... |
 | Scope                      | ... |
 | Level                      | ... |
@@ -15,6 +16,7 @@
 | Main success scenario      | ... |
 | Extensions                 | ... |
 | Special requirements       | ... |
+
 ## Exercises
 
 ### What are the requirements for the application Paint

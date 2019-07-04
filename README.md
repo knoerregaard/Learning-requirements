@@ -3,8 +3,8 @@
 ## The Use case
 
 ### Fully dressed use case template
-
-|--------------------------|---|
+| Use case section           | text|
+| -------------------------- | --- |
 | use case name              | ... |
 | Scope                      | ... |
 | Level                      | ... |
